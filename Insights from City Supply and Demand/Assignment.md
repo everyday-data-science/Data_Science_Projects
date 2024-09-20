@@ -20,6 +20,8 @@ Using the provided dataset, answer the following questions:
 ### Data Description
 To answer the question, use the dataset from the file dataset_1.csv. For example, consider the row 11 from this dataset:
 
+(Insights from City Supply and Demand/example.png)
+
 Date	      Time (Local)	  Eyeballs	Zeroes	Completed Trips	Requests	Unique Drivers
 
 2012-09-10	        16	         11	       2	     3	            4	           6
