@@ -20,7 +20,8 @@ Using the provided dataset, answer the following questions:
 ### Data Description
 To answer the question, use the dataset from the file dataset_1.csv. For example, consider the row 11 from this dataset:
 
-![example](/assets/images/example.png)
+![example](example.png)
+
 
 Date	      Time (Local)	  Eyeballs	Zeroes	Completed Trips	Requests	Unique Drivers
 
